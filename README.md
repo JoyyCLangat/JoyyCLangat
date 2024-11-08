@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/15dfdbdb-1575-4fd1-912e-94a9702bc2e9" alt="f4660cba-b6b6-41fa-9130-fffc205664f3" width="1500" height="400">
+<img src="https://github.com/user-attachments/assets/15dfdbdb-1575-4fd1-912e-94a9702bc2e9" alt="f4660cba-b6b6-41fa-9130-fffc205664f3" width="1500" height="200">
 
 <h1 align="center">Hi 👋, I'm Joy</h1>
 <h3 align="center">An AI & ML enthusiast</h3>
