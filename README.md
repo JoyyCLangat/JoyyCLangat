@@ -1,9 +1,10 @@
-<img src="https://github.com/user-attachments/assets/15dfdbdb-1575-4fd1-912e-94a9702bc2e9" alt="f4660cba-b6b6-41fa-9130-fffc205664f3" width="1500" height="200">
+<img src="https://github.com/user-attachments/assets/24b8b1e7-146f-4b44-988d-80fdf1066d6e" alt="f4660cba-b6b6-41fa-9130-fffc205664f3" width="1200" height="400">
+
 
 <h1 align="center">Hi 👋, I'm Joy</h1>
 <h3 align="center">An AI & ML enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/2cddfca8-1499-4c4f-a996-1337f5c141b5">
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/757eab96-b713-4428-8a9d-b24f59d39b48">
 
 
 
@@ -13,7 +14,8 @@
 
 - 👯 I’m looking to collaborate on **AI and ML projects**
 
-- 📝 I regularly post on [https://www.linkedin.com/in/joy-chepkoech-826875248/](https://www.linkedin.com/in/joy-chepkoech-826875248/)
+- 📝 I regularly post on [https://www.linkedin.com/in/joy-chepkoech-826875248/]
+
 
 - 💬 Ask me about **Data Science, AI ,Tensorflow**
 
