@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/628d1ef3-7318-4fda-8709-e45893798377" alt="f4660cba-b6b6-41fa-9130-fffc205664f3" width="1200" height="400">
+<img src="https://github.com/user-attachments/assets/628d1ef3-7318-4fda-8709-e45893798377" alt="f4660cba-b6b6-41fa-9130-fffc205664f3" width="1200" height="300">
 
 
 <h1 align="center">Hi 👋, I'm Joy</h1>
