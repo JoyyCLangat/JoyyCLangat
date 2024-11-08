@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/24b8b1e7-146f-4b44-988d-80fdf1066d6e" alt="f4660cba-b6b6-41fa-9130-fffc205664f3" width="1200" height="400">
+
 
 
 <h1 align="center">Hi 👋, I'm Joy</h1>
