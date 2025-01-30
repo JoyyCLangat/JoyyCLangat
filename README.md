@@ -20,8 +20,6 @@
 
 - 📄 Know about my experiences [resume](resume)
 
-- ⚡ Fun fact **I love watermelons!**
-
 <p align="left">
 
 
